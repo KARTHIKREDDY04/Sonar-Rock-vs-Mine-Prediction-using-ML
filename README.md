@@ -1,4 +1,3 @@
-Certainly! Here's a sample `README.md` file for a project that predicts whether a sonar signal is from a rock or a mine using machine learning:
 
 ---
 
